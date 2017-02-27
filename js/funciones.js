@@ -1,0 +1,1 @@
+	document.write("<p>Javascript esta habilitado</p>.");
